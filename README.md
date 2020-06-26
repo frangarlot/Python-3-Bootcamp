@@ -1,3 +1,3 @@
-# 2020-Complete-Python-Bootcamp-From-zero-to-hero-in-Python
+# 2020-Python 3 Bootcamp
 [Curso de Udemy](https://www.udemy.com/course/complete-python-bootcamp/) con el cual aprendí a programar en Python 3.
 
