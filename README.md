@@ -1,3 +1,3 @@
 # Python 3 Bootcamp
-[Curso de Udemy](https://www.udemy.com/course/complete-python-bootcamp/) con el cual aprendí a programar en Python 3.
+[Udemy Online Course](https://www.udemy.com/course/complete-python-bootcamp/) in which I learned to program with Python 3.
 
